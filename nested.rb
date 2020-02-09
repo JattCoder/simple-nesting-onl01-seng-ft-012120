@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+  values = programmer_hash[:grace_hopper]
 
 end
 
